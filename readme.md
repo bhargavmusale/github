@@ -1,7 +1,7 @@
 #the best github repo outthere
 just readme in flow
 the best ways are:
---Eat
---Sleep
---Code
---Repeat
+- Eat
+- Sleep
+- Code
+- Repeat
